@@ -1,24 +1,40 @@
 {
   "todos": [
     {
+      "id": 0,
+      "text": "todo item 0",
+      "checked": false,
+      "status": "inactive"
+    },
+    {
       "id": 1,
       "text": "todo item 1",
-      "checked": false
+      "checked": false,
+      "status": "active"
     },
     {
       "id": 2,
       "text": "todo item 2",
-      "checked": false
+      "checked": false,
+      "status": "active"
     },
     {
       "id": 3,
       "text": "todo item 3",
-      "checked": false
+      "checked": true,
+      "status": "active"
     },
     {
       "id": 4,
       "text": "todo item 4",
-      "checked": true
+      "checked": false,
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "text": "todo item 5",
+      "checked": true,
+      "status": "inactive"
     }
   ]
 }
